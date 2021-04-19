@@ -1,2 +1,2 @@
-# React-Props3-MapDataComponents
+# React-Props
 Created with CodeSandbox
